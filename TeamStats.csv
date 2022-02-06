@@ -1,0 +1,21 @@
+TeamName,country,MatchesPlayed,wins,draws,losses,league_position,performance_rank,goals_scored,goals_conceded,goal_difference,total_goal_count,points_per_game
+Arsenal FC,England,38,21,7,10,5,5,73,51,22,124,1.84
+Tottenham Hotspur FC,England,38,23,2,13,4,4,67,39,28,106,1.87
+Manchester City FC,England,38,32,2,4,1,1,95,23,72,118,2.58
+Leicester City FC,England,38,15,7,16,9,9,51,48,3,99,1.37
+Crystal Palace FC,England,38,14,7,17,12,12,51,53,-2,104,1.29
+Everton FC,England,38,15,9,14,8,8,54,46,8,100,1.42
+Burnley FC,England,38,11,7,20,15,15,45,68,-23,113,1.05
+Southampton FC,England,38,9,12,17,16,16,45,65,-20,110,1.03
+AFC Bournemouth,England,38,13,6,19,14,14,56,70,-14,126,1.18
+Manchester United FC,England,38,19,9,10,6,6,65,54,11,119,1.74
+Liverpool FC,England,38,30,7,1,2,2,89,22,67,111,2.55
+Chelsea FC,England,38,21,9,8,3,3,63,39,24,102,1.89
+West Ham United FC,England,38,15,7,16,10,10,52,55,-3,107,1.37
+Watford FC,England,38,14,8,16,11,11,52,59,-7,111,1.32
+Newcastle United FC,England,38,12,9,17,13,13,42,48,-6,90,1.18
+Cardiff City FC,Wales,38,10,4,24,18,18,34,69,-35,103,0.89
+Fulham FC,England,38,7,5,26,19,19,34,81,-47,115,0.68
+Brighton & Hove Albion FC,England,38,9,9,20,17,17,35,60,-25,95,0.95
+Huddersfield Town FC,England,38,3,7,28,20,20,22,76,-54,98,0.42
+Wolverhampton Wanderers FC,England,38,16,9,13,7,7,47,46,1,93,1.5
